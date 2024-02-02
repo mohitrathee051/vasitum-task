@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.sub{
+    display: flex  ;
+    flex-direction: Column;
+}
+
+.helo{
+    margin-left: 15vw;
+    margin-top: 1vw;
+}

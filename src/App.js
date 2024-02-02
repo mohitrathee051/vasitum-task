@@ -1,13 +1,9 @@
 import "./App.css";
-import Sidebar from "./components/Sidebar.jsx";
-import Topbar from "./components/Topbar.jsx";
-import Content from "./components/content.jsx";
+import Final from "./components/final.jsx";
 function App() {
   return (
     <div className="App">
-      <Sidebar />
-      <Topbar />
-      <Content />
+      <Final />
     </div>
   );
 }

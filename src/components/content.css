@@ -6,24 +6,25 @@
     padding: 0 20px;
     box-sizing: border-box;
     position: absolute;
-    margin-top: 5vw;
+    margin-top: 0vw;
     gap: 1.5vw;
 }
 
 .topleft{
     display: flex;
     width:52vw;
-    margin-top: -1vw;
-    margin-left: 16.5vw;
+    margin-top: 0vw;
+    margin-left: 0vw;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
+    padding-left: 2vw;
     gap: 1.5vw;
 
 }
 h3{
-    margin-left: 19vw;
-    margin-top: -4.5vw;
+    margin-left: 2vw;
+    margin-top: 0vw;
 }
 
 .position{
@@ -69,7 +70,7 @@ h3{
 .mid{
     display: flex;
     flex-direction: row;
-    margin-left: 16.5vw;
+    margin-left: 2vw;
     gap: 6.5vw;
     margin-top: 0.5vw;
     font-size: 15px;
@@ -148,7 +149,7 @@ h3{
     color: white;
     border-radius: 20px;
     margin-left: 0vw;
-    margin-top: -0vw;
+    margin-top: 5.5vw;
     font-size: 14px;
     padding: 0.5vw;
 }
@@ -337,7 +338,7 @@ h3{
     border-radius: 20px;
     position: relative;
     overflow: None;
-    margin-left: 16.5vw;
+    margin-left: 2vw;
     margin-top: 0.5vw;
     border: 2px solid black;
     padding-bottom: 2vw;
